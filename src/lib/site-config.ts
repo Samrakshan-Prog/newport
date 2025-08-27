@@ -5,9 +5,9 @@ export const siteConfig = {
   title: 'Srisamrakshan | Full-Stack developer',
   email: 'rakshan864@gmail.com',
   description:
-    "Hello, I'm Sayan. I am full-stack web developer from india. I enjoy building sites, web apps and saas applications. My focus is React (Next.js).",
+        "I'm Srisamrakshan, a MERN stack dev skilled in React,Node.js & MongoDB.I craft-platform apps using Electron.",
   keywords: [
-    'Sayan Senapati',
+    'Srisamrakshan',
     'Full-Stack developer',
     'Indian developer',
     'Portfolio',
@@ -49,11 +49,6 @@ export const siteConfig = {
   links: {
     github: 'https://github.com/Samrakshan-Prog',
     linkedin: 'https://www.linkedin.com/in/srisamrakshan/',
-    twitter: 'https://x.com/SayanSenapati11',
-    linktree: 'https://linktr.ee/Sayan_senapati',
-    instagram: 'https://www.instagram.com/sayan_senapati_',
-    facebook: 'https://www.facebook.com/share/PMeACd8YPrEx31Mk',
-    youtube: 'https://www.youtube.com/@sayansenapati1',
-    whatsapp: 'https://wa.me/918277777777',
+    instagram: 'https://www.instagram.com/_sam_jf',
   },
 };
