@@ -45,7 +45,7 @@ export const siteConfig = {
     'Programming',
     'Tech enthusiast',
   ],
-  url: 'https://sayan1.vercel.app',
+  url: 'https://imsam.vercel.app',
   links: {
     github: 'https://github.com/Samrakshan-Prog',
     linkedin: 'https://www.linkedin.com/in/srisamrakshan/',
